@@ -1,2 +1,2 @@
-flask
-assemblyai
+Flask==3.0.3
+assemblyai==0.26.0
